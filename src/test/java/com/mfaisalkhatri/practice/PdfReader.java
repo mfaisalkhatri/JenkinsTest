@@ -39,7 +39,6 @@ public class PdfReader {
 
 	/**
 	 * @throws IOException
-	 * @throws IOException
 	 */
 	@Test
 	public void test2() throws IOException {
