@@ -56,7 +56,7 @@ public class PdfReader {
 
 		Assert.assertTrue(
 				TestText.contains("The free Acrobat Reader is easy to download and can be freely distributed "));
-		System.out.println("Test case 2 Passed");
+		System.out.println("Test case 2 Passed.");
 
 	}
 
